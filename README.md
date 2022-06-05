@@ -8,7 +8,7 @@
 
   - [Linkedin](https://www.linkedin.com/in/ahmetcakr)
   - [Instagram](https://www.instagram.com/ahmeetcakrr)
-  - [Play Store](https://play.google.com/store/apps/dev?id=6347102158894887682)
+  - [Google Play](https://play.google.com/store/apps/dev?id=6347102158894887682)
   
   
 <!---
