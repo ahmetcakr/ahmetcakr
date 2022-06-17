@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmet from Turkey. I'm 22 years old now.
 - 👀 I’m interested in Cross-Platform Application Development.
 - 🌱 I’m currently learning Flutter/Dart and Delphi.
-- 💞️ I’m working on Flutter/Dart,Delphi, C#, C++, SQL, PHP, Xamarin.
+- 💞️ I’m working on Flutter/Dart, Delphi/FMX , C#, C++, SQL, PHP, Xamarin.
 - 📫 You can react and help me about all my codes.
 
   ![counter](https://enuv6ob64tzi6re.m.pipedream.net) 
