@@ -4,7 +4,6 @@
 - 💞️ I’m working on Flutter/Dart, Delphi/FMX , C#, C++, SQL, PHP, Xamarin.
 - 📫 You can react and help me about all my codes.
 
-  ![counter](https://enuv6ob64tzi6re.m.pipedream.net) 
 
   - [Linkedin](https://www.linkedin.com/in/ahmetcakr)
   - [Instagram](https://www.instagram.com/ahmeetcakrr)
