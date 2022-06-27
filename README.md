@@ -1,5 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ahmetcakr&show_icons=true&theme=dracula">
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcakr&layout=compact">
 
 ## 🌍 Ahmet's World
 I'm Ahmet. I have graduated from Computer Programming at Uludag University. I am into Cross-Platform Development.
@@ -18,7 +18,7 @@ Lately, I use Flutter/Dart and Fmx/Delphi. I also have knowledge about Php, C#, 
   <img align="left" alt="Ahmet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcakr&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ahmetcakr&show_icons=true&theme=dracula">
 
 [![Mail](https://img.shields.io/badge/email-c14438?&logo=Gmail&logoColor=white&link=mailto:ahmetcaakirr@gmail.com)](mailto:ahmetcaakirr@gmail.com)
 
