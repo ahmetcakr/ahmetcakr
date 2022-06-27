@@ -8,7 +8,7 @@ Lately, I use Flutter/Dart and Fmx/Delphi. I also have knowledge about Php, C#, 
 <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=ahmetcakr" alt="visitor badge"/>
 <br><br>
 
-<a href="https://www.instagram.com/ahmetcakrr/">
+<a href="https://www.instagram.com/ahmeetcakrr/">
   <img align="left" alt="Ahmet's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/ahmetcaakirr">
