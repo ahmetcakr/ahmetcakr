@@ -28,7 +28,6 @@ Lately, I use Flutter/Dart and Fmx/Delphi. I also have knowledge about Php, C#, 
 
 
   - [Google Play](https://play.google.com/store/apps/dev?id=6347102158894887682)
-  
   <br>
 
 
