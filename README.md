@@ -2,8 +2,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcakr&layout=compact">
 
 ## 🌍 Ahmet's World
-I'm Ahmet. I have graduated from Computer Programming at Uludag University. I am into Cross-Platform Development.
-Lately, I use Flutter/Dart and Fmx/Delphi. I also have knowledge about Php(html-css), C#, C++, SQL and Xamarin.
+I'm Ahmet. I am into Cross-Platform Development.
+Lately, I use C#, Flutter/Dart and Fmx/Delphi. I also have knowledge about Php(html-css), C#, C++, SQL and Xamarin.
 <br><br>
 <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=ahmetcakr" alt="visitor badge"/>
 <br><br>
