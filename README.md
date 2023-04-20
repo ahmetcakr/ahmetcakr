@@ -2,8 +2,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcakr&layout=compact">
 
 ## 🌍 Ahmet's World
-I'm Ahmet.I am into Full-Stack Development.
-Lately, I interested in Machine Learning that's why I use ML.net.<br><br>
+I'm Ahmet.I am into Full-Stack Development. 
+Lately, I interested in Machine Learning, tTat's why I use ML.net. <br><br>
 <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=ahmetcakr" alt="visitor badge"/>
 <br><br>
 
