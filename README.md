@@ -1,33 +1,26 @@
+## 🌍 Ahmet Cakir
+<h3>Software Developer</h3>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcakr&layout=compact">
+<div>
+  <a href="https://www.instagram.com/ahmeetcakrr/">
+    <img align="left" alt="Ahmet's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>
+  <a href="https://twitter.com/ahmetcaakirr">
+    <img align="left" alt="Ahmet Çakır | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmetcakr/">
+    <img align="left" alt="Ahmet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  </a>
+</div>
 
-## 🌍 Ahmet's World
-I'm Ahmet.I am into Full-Stack Development. I have knowledge about Windows & Android Applications and Web API.
-Lately, I interested in Machine Learning. <br><br>
-<img align='left' src="https://visitor-badge.glitch.me/badge?page_id=ahmetcakr" alt="visitor badge"/>
 <br><br>
 
-<a href="https://www.instagram.com/ahmeetcakrr/">
-  <img align="left" alt="Ahmet's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/ahmetcaakirr">
-  <img align="left" alt="Ahmet Çakır | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ahmetcakr/">
-  <img align="left" alt="Ahmet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ahmetcakr&show_icons=true&theme=dracula">
+<div>
+  <img align='bottom' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcakr&layout=compact">
+  <img align='top' src="https://github-readme-stats.vercel.app/api?username=ahmetcakr&show_icons=true&theme=dracula">
+</div>
 
-[![Mail](https://img.shields.io/badge/email-c14438?&logo=Gmail&logoColor=white&link=mailto:ahmetcaakirr@gmail.com)](mailto:ahmetcaakirr@gmail.com)
-
-
-<br>
-
-
-
-  - [Google Play](https://play.google.com/store/apps/dev?id=6347102158894887682)
-  <br>
 
 
 **Languages and Tools:**  
