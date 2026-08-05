@@ -18,15 +18,6 @@ Java + Spring Boot developer in fintech. Core banking, payments and Open Banking
 
 ---
 
-### 🚀 Payload
-
-| | |
-|---|---|
-| **Ritmo-QR** | Scan a QR at the venue, queue a song — without handing anyone the owner's Spotify account. `Spring Boot` `Angular` `Spotify OAuth2` `WebSockets` |
-| **Rendex** | P2P car rental with spatial search, OTP auth and an S3 pipeline for inspection photos. `Spring Boot` `Microservices` `Redis` `S3` |
-
----
-
 ### 📡 Telemetry
 
 <p align="center">
