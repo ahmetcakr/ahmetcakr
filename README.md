@@ -19,5 +19,5 @@ Java + Spring Boot developer in fintech. Core banking, payments and Open Banking
 ---
 ### 📡 Telemetry
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetcakr&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=8FB4F5&line=ED8B00&point=ffffff" width="98%" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=ahmetcakr&bg_color=0D111&color=097402&line=007af5&point=ffffff&area_color=006eff&area=true&hide_border=true" width="98%" />
 </p>
